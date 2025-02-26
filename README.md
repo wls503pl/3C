@@ -1,2 +1,4 @@
-# 3C
-The Essence of Chinese Classical Culture
+# 中国古典文化精华
+
+The Essence of Chinese Classical Culture.
+
